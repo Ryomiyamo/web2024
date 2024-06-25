@@ -1,6 +1,10 @@
-alert('Hello, Ryouhhei!');
+alert('Hello,Ryouhei');
 alert(1+1);
 alert(Math.sqrt(1+1));
-・2の平方根と３の平方根の和を計算しなさい。
-・1を0で割るとどうなるか、試しみなさい。
-・0を0でわるとどうなるか、試してみなさい。
+alert(Math.sqrt(2+3));
+alert(1/0);
+alert(0/0);
+alert(2+3);
+alert('2'+'3');
+alert(Number('2')+Number('3'));
+alert('2'+3);
